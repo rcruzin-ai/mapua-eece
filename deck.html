@@ -29,11 +29,12 @@
   /* deck */
   #deck{height:100vh;width:100vw;position:relative}
   .slide{
-    position:absolute;inset:0;display:none;
+    position:absolute;inset:0;display:flex;overflow:hidden;
     flex-direction:column;justify-content:center;
     padding:clamp(5vh,7vh,9vh) clamp(6vw,7vw,9vw);
+    visibility:hidden;opacity:0;pointer-events:none;
   }
-  .slide.active{display:flex;animation:fade .4s ease}
+  .slide.active{visibility:visible;opacity:1;pointer-events:auto;animation:fade .4s ease}
   @keyframes fade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
   /* editorial: content anchored left, wide measure, generous rhythm */
   .inner{max-width:var(--maxw);width:100%;margin:0;display:flex;flex-direction:column;gap:.15em}
