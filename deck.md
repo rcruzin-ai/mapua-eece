@@ -56,26 +56,31 @@ You lived the values that got you here:
 
 <br>
 <br>
+<br>
+<br>
 
 ### Everyone can code now — AI does more tasks, better than you.
+
+<br>
+<br>
 
 ### So what's your **moat?**
 
 #### The medal won't be it. *(I had the medals too.)*
 
-### Let's find the skill AI can't copy.
-
 <!-- notes: This is the SECOND slide — you open on the awardees (honor the room), THEN introduce yourself here with the title gag. The subtitle now PLANTS the word "moat" — say it out loud here so it's seeded early; you'll pay it off mid-talk (slide ~14 asks it, the 7 principles spell M-O-A-T, Gino's close lands on it). THE TITLE GAG — and the fix for the audience: these are the TOP 10, medalists, listers. "Skill issue" as a roast would insult them. So flip it. Put "SKILL ISSUE?" up, let them brace for the roast, then the plot twist: "Not yours. Relax — I'm not here to roast the best students in the building. I HAD the medals too: silver medalist, cum laude, president's lister, just like a lot of you. Here's what nobody told me: the skill that wins the medal is NOT the skill that wins what comes next. That's the gap I want to talk about." This makes you a PEER (same résumé), turns the meme into a subverted-expectation laugh, and sets up the whole thesis: the medal isn't the moat. Threads straight into the moat slide later ("what's your edge?"). Honor their achievement first — they earned it — THEN raise the bar. -->
 
 ---
 
-<!-- class: imageslide -->
+<!-- class: imageslide moatdef -->
 
 ## First · what's a moat?
 
 <img class="full-img" src="images/deck/moat.png" alt="A castle protected by a wide water moat">
 
-#### A barrier that protects the castle. **Your moat = the thing that protects YOU** when everyone has the same tools.
+### **The water** is the barrier attackers can't cross.
+
+#### Your **moat** = the skill AI can't copy — what keeps you standing when everyone has the same tools.
 
 <!-- notes: Pay off the word you just planted. Keep it literal first — point at the picture: "A moat is the water around the castle. Anyone can storm the gate, but the moat is what keeps you standing." Then make it personal: in a world where everyone has the same AI tools, your moat is the thing those tools can't copy — your judgment, your taste, your discipline. DON'T fully answer what it is yet — that's the whole back half (M-O-A-T). Just lock in the metaphor so 'build your moat' lands every time you say it after this. ~20s, then → "Hi, I'm Raymond." -->
 
