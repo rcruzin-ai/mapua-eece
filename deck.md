@@ -347,24 +347,21 @@ Just to *finish.* Just for *compliance.* And the comprehension muscle quietly we
 
 ---
 
-<div class="split">
-<div class="split-content">
+<!-- class: section-dark -->
 
-## The endless possibilities
+## This shift is **inevitable** — so make it your **leverage.**
 
-# This shift is **inevitable** — so make it your **leverage.**
-
-I built a working app in **minutes** — a Pokédex.
+# The endless possibilities
 
 <div class="qrcard light"><img src="images/qr/qr-pokedex.png" alt="Pokédex demo QR"><span>scan & try the Pokédex live</span></div>
 
-</div>
-<div class="split-media">
-<img src="images/deck/pokedex.gif" alt="Pokédex app demo">
-</div>
-</div>
+---
 
-<!-- class: split -->
+<!-- class: section-dark -->
+
+### I built a working app in **minutes** — **a Pokédex.**
+
+<img class="full-img" src="images/deck/pokedex.gif" alt="Pokédex app demo">
 
 <!-- notes: REFRAMED — this is now the "inevitable shift = leverage" beat, the flip side of the two elephants before it. AI tools are endless and they're not going away — so the move isn't fear, it's LEVERAGE. The "app in minutes" beat: Pokédex, study buddy, meme gen — built fast, things that took a whole thesis team a semester. Then the live demo (Pokédex QR — audience scans & plays along). Land it: "the tools are inevitable; the only question is whether YOU wield them, or get wielded." Sets up the ladders / agentic-engineering slides next.
 
@@ -374,17 +371,25 @@ I built a working app in **minutes** — a Pokédex.
 
 ---
 
+
+# Einstein's IQ? 
+### Legendarily ~160.
+
+<br>
+<br>
+<br>
+
 ## And the assistant in your pocket
+# Claude 
+<div class="logorow "><img src="images/logos/claude.png" alt="Claude"></div>
 
-# Einstein's IQ? *Legendarily* ~160.
+### in 2023: **~64**, today at **~133**  and climbing every month. 📈
 
-### Claude in 2023: **~64.** Today: **~133** — and climbing every month. 📈
+<br>
+<br>
 
-<div class="logorow center"><img src="images/logos/claude.png" alt="Claude"></div>
-
-## And it's on call **24/7, for free, in every language.**
-
-The question isn't *"is it smart?"* It's *"are you using it well?"*
+### The question isn't **is it smart?**
+### It's **are you using it well?**
 
 <div class="src">*Einstein's "160" is popular legend (he never took a modern IQ test). Claude's IQ: Mensa Norway test via TrackingAI — ~64 (2023) → ~133 (latest Opus, 2026). The point stands: genius-level help is now in everyone's pocket.*</div>
 
