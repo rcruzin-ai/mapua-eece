@@ -694,6 +694,18 @@ Shout out to **Russel** External Vice President (OIC) & the whole **EECE Student
 
 ---
 
+<!-- class: imageslide -->
+
+# Great people.
+
+## You'll find yours beyond this room.
+
+<img class="full-img" src="images/deck/team.png" alt="The team — great people you'll find beyond this room">
+
+<!-- notes: The payoff of the whole pipeline message — the people you meet beyond Intramuros are the real reward: mentors, peers, the network that pulls you up. Engineering is a team sport. Land it warmly, then hand straight to Gino — the senior who proves it. -->
+
+---
+
 <!-- class: quote -->
 
 ## A word from my boss — a fellow Mapúan
