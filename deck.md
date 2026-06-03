@@ -347,19 +347,24 @@ Just to *finish.* Just for *compliance.* And the comprehension muscle quietly we
 
 ---
 
+<div class="split">
+<div class="split-content">
+
 ## The endless possibilities
 
 # This shift is **inevitable** — so make it your **leverage.**
 
-I built a working app in **minutes** — a Pokédex. A study buddy. A meme generator. A tutor that never sleeps.
-
-Things that took my whole *thesis team* a semester.
-
-The tools aren't going away.
-
-The question is whether you **wield** them.
+I built a working app in **minutes** — a Pokédex.
 
 <div class="qrcard light"><img src="images/qr/qr-pokedex.png" alt="Pokédex demo QR"><span>scan & try the Pokédex live</span></div>
+
+</div>
+<div class="split-media">
+<img src="images/deck/pokedex.gif" alt="Pokédex app demo">
+</div>
+</div>
+
+<!-- class: split -->
 
 <!-- notes: REFRAMED — this is now the "inevitable shift = leverage" beat, the flip side of the two elephants before it. AI tools are endless and they're not going away — so the move isn't fear, it's LEVERAGE. The "app in minutes" beat: Pokédex, study buddy, meme gen — built fast, things that took a whole thesis team a semester. Then the live demo (Pokédex QR — audience scans & plays along). Land it: "the tools are inevitable; the only question is whether YOU wield them, or get wielded." Sets up the ladders / agentic-engineering slides next.
 
