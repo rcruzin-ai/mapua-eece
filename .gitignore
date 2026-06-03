@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Private / behind-the-scenes material — not for the public repo
+docs/
+
+# Old backups / superseded files
+archive/
