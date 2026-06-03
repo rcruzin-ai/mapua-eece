@@ -31,6 +31,14 @@ President's Listers. Dean's Listers. The brightest brains in Intramuros today.
 
 # Skill Issue?
 
+---
+
+<!-- class: title -->
+
+## EECE Excellence Awards 2026
+
+# Skill Issue?
+
 #### Plot twist: ***not yours.***
 
 
@@ -75,13 +83,11 @@ President's Listers. Dean's Listers. The brightest brains in Intramuros today.
 - 📜 **Board Exam → PRC Licensed**
 - 📐 **MSECE — Control Systems**, Mapúa Intramuros **Student No. 2019390062**
 
-<br>
-
 #### Career
 - 🔧 **Test Systems** then **Software & Tools Engineer**
 - 🤖 **AI & Machine Learning Engineer** @ Sprout AI Labs today
 
-<div class="logorow big center"><img src="images/deck/me.png" alt="Me"></div>
+<div class="logorow big center bg-photo"><img src="images/deck/me.png" alt="Me"></div>
 
 <!-- notes: FAST — six steps, don't dwell. The point is "the distance from your seat to mine is shorter than it feels." PRC Licensed = you did the board exam grind they're about to face. "Lab rat" then the soften ("not a rat, just someone in the lab") = the lovable self-deprecating laugh. The student number + Alumnus tag is a wink: "I'm literally still in the Mapúa system — I'm one of you, just a few years ahead." MSECE ties you to the grad students in the room. Next slide unpacks the actual journey. -->
 
@@ -127,7 +133,7 @@ I crossed it. So will you.
 - Executive Vice President, **Mapúa Malayan Digital College.**
 <br>
 <br>
-- Our for former Professor & Dean of School of EE-ECE-CpE
+- Our former Professor & Dean of School of EE-ECE-CpE
 
 <div class="logorow big center"><img src="images/logos/mmdc.png" alt="Mapúa Malayan Digital College"></div>
 
@@ -431,7 +437,7 @@ You're not late. You're **early.** ⏱️
 
 ### Same answer. **Build your moat.**
 
-<div class="src"><b>Sources:</b> Terence Tao, "Nobody Understands Why AI Actually Works" (youtu.be/ukpCHo5v-Gc); Demis Hassabis — Nobel Prize 2024 (deepmind.google), Athens talk, Sept 2025.</div>
+<div class="src"><b>Sources:</b> Terence Tao, "Nobody Understands Why AI Actually Works" (youtu.be/ukpCHo5v-Gc); Demis Hassabis — Athens talk, Sept 2025 (deepmind.google).</div>
 
 <!-- notes: AUTHORITY / VALIDATION slide — third-party proof of your whole thesis from TWO people the Top 10 revere. (1) Terence Tao, Fields Medalist — "Nobody Understands Why AI Actually Works" (youtu.be/ukpCHo5v-Gc); his points: verify over rote output (37:12), foundational reasoning (24:05), orchestrate AI for long-tail (41:06), curiosity/basic science → breakthroughs like faster MRI (1:00:46). (2) Sir Demis Hassabis, CEO Google DeepMind, 2024 Nobel Prize in Chemistry for AlphaFold — Athens, Sept 14 2025: the most crucial skill for the next generation is "learning how to learn," teaching meta-skills (how to learn, adapt tools, validate results, collaborate with AI) over fixed curricula. SAY IT: "I've told you this for ten minutes — but don't take MY word for it. A Fields Medalist and a Nobel laureate from Google DeepMind just said the exact same thing." Both map onto MOAT: verify/know-why = MASTERY, orchestrate/collaborate = ORCHESTRATE, learn-how-to-learn = ADAPT. Then turn → next slide reveals M-O-A-T. -->
 <!-- class: authority -->
@@ -492,9 +498,11 @@ You cannot solo. The best engineers orchestrate — people, tools, and now agent
 
 # Be a good teammate.
 
-You might be the best at one thing — but **who cares**, if nobody wants to build with you?
+You might be the best at one thing — but what wins is being a **teammate that cares.**
 
-<!-- notes: Still O — Orchestrate. Can't orchestrate if no one will play with you. Talent without collaboration is a dead end. "Who cares" delivered with love, not aggression. -->
+The kind people actually want to build with.
+
+<!-- notes: Still O — Orchestrate. Can't orchestrate if no one will play with you. Talent without collaboration is a dead end. Land it warm: raw skill gets you in the room, but the teammate who genuinely CARES — about the work, about the people — is the one everyone wants to build with. That's the multiplier AI can't replace. -->
 
 ---
 

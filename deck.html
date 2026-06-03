@@ -54,6 +54,9 @@
   .slide blockquote h1,.slide blockquote h2,.slide blockquote h3{color:var(--ink)}
 
   /* slide variants (driven by <!-- class: x --> in md) */
+  /* title slides are top-anchored so a build (same headline, more lines on the next slide)
+     keeps the kicker + headline pinned in place instead of re-centering and "jumping" */
+  .slide.title{justify-content:flex-start;padding-top:clamp(14vh,18vh,22vh)}
   .slide.title .inner{border-left:8px solid var(--red);padding-left:clamp(1rem,3vw,2.5rem)}
   .slide.title h1{font-size:clamp(2.6rem,7vw,5.5rem)}
   /* title subtitle lines read as a tight, line-by-line stanza */
@@ -124,9 +127,13 @@
   .slide.closing em{color:var(--ink)}
   .slide.closing a{color:var(--red);text-decoration:underline}
   /* closing final note — the charge + scripture */
-  .slide.closing .qrcard{margin:.3em 0}
-  .slide.closing .final-note{margin-top:clamp(.5rem,1.6vh,1rem);max-width:64ch;border-top:1px solid var(--line);padding-top:clamp(.5rem,1.4vh,.9rem)}
-  .slide.closing .final-note .charge{font-size:clamp(1.1rem,2vw,1.5rem);font-weight:700;color:var(--ink);margin:0 0 .4em;line-height:1.2}
+  /* closing slide is content-dense (headline + subtitle + QR + charge + verse):
+     keep it compact so nothing clips the top kicker or runs under the footer */
+  .slide.closing h4{margin:.2em 0}
+  .slide.closing .qrcard{margin:.2em 0;padding:clamp(.6rem,1.4vh,1rem)}
+  .slide.closing .qrcard img{width:clamp(110px,13vw,150px)}
+  .slide.closing .final-note{margin-top:clamp(.3rem,1vh,.7rem);max-width:64ch;border-top:1px solid var(--line);padding-top:clamp(.4rem,1vh,.7rem)}
+  .slide.closing .final-note .charge{font-size:clamp(1.1rem,2vw,1.5rem);font-weight:700;color:var(--ink);margin:0 0 .35em;line-height:1.2}
   .slide.closing .final-note .charge strong{color:var(--red)}
   .slide.closing .final-note .verse{font-size:clamp(.82rem,1.35vw,1.05rem);font-style:italic;color:var(--muted);line-height:1.42;max-width:62ch;margin:0 auto}
   .slide.closing .final-note .verse cite{display:block;font-style:normal;font-weight:700;color:var(--red);margin-top:.35em;font-size:.86em}
@@ -152,6 +159,9 @@
   .logorow.center{justify-content:center;width:100%}
   .logorow.big{gap:clamp(2em,4vw,3.5em);margin-top:1.4em}
   .logorow.big img{height:clamp(6em,12vw,10em)}
+  /* content-dense background slide: keep the photo modest so the slide fits the frame */
+  .logorow.bg-photo{margin-top:clamp(.6em,1.6vh,1.1em)}
+  .logorow.bg-photo img{height:clamp(4.5em,8vw,7em)}
   /* large centered hero artwork inside a slide body (e.g. the elephant) */
   .hero-art{display:block;margin:clamp(1rem,3vh,2.4rem) auto 0;width:auto;
     max-width:min(62%,680px);max-height:48vh;height:auto;object-fit:contain}
@@ -363,6 +373,14 @@ President's Listers. Dean's Listers. The brightest brains in Intramuros today.
 
 # Skill Issue?
 
+---
+
+<!-- class: title -->
+
+## EECE Excellence Awards 2026
+
+# Skill Issue?
+
 #### Plot twist: ***not yours.***
 
 
@@ -407,13 +425,11 @@ President's Listers. Dean's Listers. The brightest brains in Intramuros today.
 - 📜 **Board Exam → PRC Licensed**
 - 📐 **MSECE — Control Systems**, Mapúa Intramuros **Student No. 2019390062**
 
-<br>
-
 #### Career
 - 🔧 **Test Systems** then **Software & Tools Engineer**
 - 🤖 **AI & Machine Learning Engineer** @ Sprout AI Labs today
 
-<div class="logorow big center"><img src="images/deck/me.png" alt="Me"></div>
+<div class="logorow big center bg-photo"><img src="images/deck/me.png" alt="Me"></div>
 
 <!-- notes: FAST — six steps, don't dwell. The point is "the distance from your seat to mine is shorter than it feels." PRC Licensed = you did the board exam grind they're about to face. "Lab rat" then the soften ("not a rat, just someone in the lab") = the lovable self-deprecating laugh. The student number + Alumnus tag is a wink: "I'm literally still in the Mapúa system — I'm one of you, just a few years ahead." MSECE ties you to the grad students in the room. Next slide unpacks the actual journey. -->
 
@@ -459,7 +475,7 @@ I crossed it. So will you.
 - Executive Vice President, **Mapúa Malayan Digital College.**
 <br>
 <br>
-- Our for former Professor & Dean of School of EE-ECE-CpE
+- Our former Professor & Dean of School of EE-ECE-CpE
 
 <div class="logorow big center"><img src="images/logos/mmdc.png" alt="Mapúa Malayan Digital College"></div>
 
@@ -763,7 +779,7 @@ You're not late. You're **early.** ⏱️
 
 ### Same answer. **Build your moat.**
 
-<div class="src"><b>Sources:</b> Terence Tao, "Nobody Understands Why AI Actually Works" (youtu.be/ukpCHo5v-Gc); Demis Hassabis — Nobel Prize 2024 (deepmind.google), Athens talk, Sept 2025.</div>
+<div class="src"><b>Sources:</b> Terence Tao, "Nobody Understands Why AI Actually Works" (youtu.be/ukpCHo5v-Gc); Demis Hassabis — Athens talk, Sept 2025 (deepmind.google).</div>
 
 <!-- notes: AUTHORITY / VALIDATION slide — third-party proof of your whole thesis from TWO people the Top 10 revere. (1) Terence Tao, Fields Medalist — "Nobody Understands Why AI Actually Works" (youtu.be/ukpCHo5v-Gc); his points: verify over rote output (37:12), foundational reasoning (24:05), orchestrate AI for long-tail (41:06), curiosity/basic science → breakthroughs like faster MRI (1:00:46). (2) Sir Demis Hassabis, CEO Google DeepMind, 2024 Nobel Prize in Chemistry for AlphaFold — Athens, Sept 14 2025: the most crucial skill for the next generation is "learning how to learn," teaching meta-skills (how to learn, adapt tools, validate results, collaborate with AI) over fixed curricula. SAY IT: "I've told you this for ten minutes — but don't take MY word for it. A Fields Medalist and a Nobel laureate from Google DeepMind just said the exact same thing." Both map onto MOAT: verify/know-why = MASTERY, orchestrate/collaborate = ORCHESTRATE, learn-how-to-learn = ADAPT. Then turn → next slide reveals M-O-A-T. -->
 <!-- class: authority -->
@@ -824,9 +840,11 @@ You cannot solo. The best engineers orchestrate — people, tools, and now agent
 
 # Be a good teammate.
 
-You might be the best at one thing — but **who cares**, if nobody wants to build with you?
+You might be the best at one thing — but what wins is being a **teammate that cares.**
 
-<!-- notes: Still O — Orchestrate. Can't orchestrate if no one will play with you. Talent without collaboration is a dead end. "Who cares" delivered with love, not aggression. -->
+The kind people actually want to build with.
+
+<!-- notes: Still O — Orchestrate. Can't orchestrate if no one will play with you. Talent without collaboration is a dead end. Land it warm: raw skill gets you in the room, but the teammate who genuinely CARES — about the work, about the people — is the one everyone wants to build with. That's the multiplier AI can't replace. -->
 
 ---
 
