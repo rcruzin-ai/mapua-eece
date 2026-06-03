@@ -626,9 +626,7 @@ To the faculty & advisers who said *"bangon lang"* a hundred times.
 
 ## "You were never trained to operate a tool. You were trained to solve problems — to make the call when the answer isn't obvious. That's the part no AI will ever replace. So don't anchor yourself to a tool. **Anchor yourself to the discipline.**"
 
-- **Gino Oliver**
-- my boss at Sprout
-- **Mapúa MCL, Alpha batch**
+**— Gino Oliver** · my boss at Sprout · **Mapúa MCL, Alpha batch** — the senior who walked this exact path first.
 
 
 <!-- notes: THE Gino shout-out — and emphasize his identity HARD: Gino Oliver is (1) my CURRENT BOSS at Sprout, (2) a fellow Mapúan, (3) my SENIOR from the Alpha batch at Mapúa Malayan — he literally sat where you sit, a few years ahead of me. Living proof of the pipeline: Intramuros → industry → AI leadership, and now he leads. Read his FULL message aloud — this is the slide where you let his words land: "The tools kept changing — the methods, the materials, then the machines that think alongside us. And now the shift again: we're the ones building the systems those machines will operate in. But through every shift, one thing held. You were never trained to operate a tool. You were trained to solve problems, to exercise taste, to make the call when the answer isn't obvious. That's the part no AI will ever replace. So don't anchor yourself to a tool. Anchor yourself to the discipline." Then land the human point: in a field full of AI and tools, we forget — engineers are, at the core, PROBLEM-SOLVERS. That's the moat. That's the discipline. Tie it back to the title (the medal isn't the moat) and to the moat slide. -->
@@ -639,8 +637,9 @@ To the faculty & advisers who said *"bangon lang"* a hundred times.
 
 ## Let's connect.
 
-#### learn,  evolve,  become significant. 🚀
-- *Congratulations, EECE. Now go build something significant.*
+# Learn. Evolve. Become significant. 🚀
+
+#### *Congratulations, EECE. Now go build something significant.*
 
 
 <div class="qrcard"><img src="images/qr/qr.png" alt="LinkedIn QR — Raymond Cruzin"><span>linkedin.com/in/raymond-cruzin</span></div>
