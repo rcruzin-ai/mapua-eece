@@ -652,14 +652,20 @@ To the faculty & advisers who said *"bangon lang"* a hundred times.
 
 <div class="qrcard"><img src="images/qr/qr.png" alt="LinkedIn QR — Raymond Cruzin"><span>linkedin.com/in/raymond-cruzin</span></div>
 
+<!-- notes: Recap the three taglines — Learn. Evolve. Become significant. — then point them at the QR. "Scan it, connect with me on LinkedIn, let's stay in touch." Then advance to the final charge + scripture. -->
 
+---
 
-<div class="final-note">
-  <p class="charge">Focus on what you are <strong>becoming</strong>. Be a good engineer.</p>
+<!-- class: closing -->
+
+## One last thing.
+
+<div class="final-note open">
+  <p class="charge">Focus on what you are <strong>becoming</strong>.<br>Be a good engineer.</p>
   <blockquote class="verse">
     "And the things you have heard me say in the presence of many witnesses entrust to reliable people who will also be qualified to teach others."
     <cite>— 2 Timothy 2:2 (NIV)</cite>
   </blockquote>
 </div>
 
-<!-- notes: Land the plane. Drop your LinkedIn QR PNG in place of the dashed box: <img src="images/qr/qr.png" width="180">. Recap the three taglines, then the final charge — "Focus on what you are BECOMING. Be a good engineer." Close with 2 Timothy 2:2: the whole talk is about a senior entrusting what he learned to the next generation, who will pass it on again — that's the verse made literal. Let it sit, then step back for the Token of Appreciation. -->
+<!-- notes: Land the plane. The final charge — "Focus on what you are BECOMING. Be a good engineer." Close with 2 Timothy 2:2: the whole talk is about a senior entrusting what he learned to the next generation, who will pass it on again — that's the verse made literal. Let it sit, then step back for the Token of Appreciation. -->
