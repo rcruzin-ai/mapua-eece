@@ -103,7 +103,7 @@ You lived the values that got you here:
 <br>
 <br>
 
-<div class="full-img"><img src="images/logos/mapua-mcl.png" alt="Mapúa Malayan Colleges Laguna"><img src="images/logos/mapua.png" alt="Mapúa University"></div>
+<div class="logorow big center"><img src="images/logos/mapua-mcl.png" alt="Mapúa Malayan Colleges Laguna"><img src="images/logos/mapua.png" alt="Mapúa University"></div>
 
 <!-- notes: Warm, simple open after the title gag — "Hi, I'm Raymond." Then the turn: I sat in those seats — same awards, same imposter feeling, a few years ahead of you. -->
 <!-- class: statement -->
@@ -292,7 +292,7 @@ You spent 5 years learning to code. *Cool cool cool.* 😬
 <br>
 <br>
 - **John Nichols**
-- Vice President, Maxim Integraded | Analog Devices
+- Vice President, Maxim Integrated | Analog Devices
 
 <div class="logorow big center"><img src="images/logos/adi.png" alt="Analog Devices"></div>
 
@@ -378,11 +378,15 @@ I built a working app in **minutes** — a Pokédex.
 
 # Einstein's IQ? *Legendarily* ~160.
 
-## Your assistant is on call **24/7, for free, in every language.**
+### Claude in 2023: **~64.** Today: **~133** — and climbing every month. 📈
+
+<div class="logorow center"><img src="images/logos/claude.png" alt="Claude"></div>
+
+## And it's on call **24/7, for free, in every language.**
 
 The question isn't *"is it smart?"* It's *"are you using it well?"*
 
-<div class="src">*Einstein never took a modern IQ test — "160" is popular legend. The point stands: genius-level help is now in everyone's pocket.*</div>
+<div class="src">*Einstein's "160" is popular legend (he never took a modern IQ test). Claude's IQ: Mensa Norway test via TrackingAI — ~64 (2023) → ~133 (latest Opus, 2026). The point stands: genius-level help is now in everyone's pocket.*</div>
 
 <!-- notes: Einstein-vs-AI beat. The genius isn't owning the smart tool — everyone has it now. The genius is HOW you direct it. Sets up the principles. -->
 
@@ -410,7 +414,7 @@ Each rung: **faster feedback, smaller batches, less waste.**
 
 ## Ladder 2 — how we use AI Assistant
 
-# Chat → Autocomplete → Coding Agent → **Agentic Engineering**
+# Chat → Autocomplete → Code → **Agentic Engineering**
 
 When you graduate, you'll **start at the top rung.** Start practicing now.
 
@@ -638,7 +642,7 @@ So don't chase the title. **Become the engineer.**
 ## My honest career trajectory
 
 - ⚙️ Systems Engineer → 🤖 **Senior AI/ML Engineer** → AI Practitioner & Consultant → *maybe* **Principal / Director**
-- 👨‍👧 a good husband… Dad?
+- 👨‍👧 a good **husband**… Dad?
 - 📖 study the Bible — *(diploma in theology)*
 - 🪿 then… **farmer** and **owner** 
 
@@ -687,7 +691,7 @@ Shout out to **Russel** External Vice President (OIC) & the whole **EECE Student
 
 <!-- class: quote -->
 
-## A word from my boss - Fellow Mapúan
+## A word from my boss — a fellow Mapúan
 
 <img class="quote-portrait" src="images/deck/gino.png" alt="Gino Oliver">
 

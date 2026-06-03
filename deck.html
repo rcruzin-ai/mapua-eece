@@ -117,8 +117,9 @@
   .slide.quote h1,.slide.quote h2,.slide.quote h3{font-style:italic}
   .slide.quote p{margin-top:1em;font-style:normal;color:var(--muted);font-size:clamp(1rem,1.9vw,1.3rem)}
   .slide.quote strong{color:var(--red)}
-  /* portrait of the person being quoted — circular, top-right where the quote leaves space */
-  .slide.quote{position:relative}
+  /* portrait of the person being quoted — circular, vertically centered on the right.
+     .slide is already position:absolute, so the portrait anchors to it directly (no extra
+     position:relative — that override collapsed the slide's inset:0 fill and blanked it) */
   .quote-portrait{position:absolute;top:50%;transform:translateY(-50%);right:clamp(4vw,6vw,7vw);width:clamp(200px,24vw,320px);height:clamp(200px,24vw,320px);object-fit:cover;border-radius:50%;box-shadow:0 10px 36px rgba(20,20,40,.22);border:5px solid #fff}
   /* when a portrait is present, keep the quote text in the left column so it never runs under the photo */
   .slide.quote:has(.quote-portrait) .inner{max-width:62%}
@@ -468,7 +469,7 @@ You lived the values that got you here:
 <br>
 <br>
 
-<div class="full-img"><img src="images/logos/mapua-mcl.png" alt="Mapúa Malayan Colleges Laguna"><img src="images/logos/mapua.png" alt="Mapúa University"></div>
+<div class="logorow big center"><img src="images/logos/mapua-mcl.png" alt="Mapúa Malayan Colleges Laguna"><img src="images/logos/mapua.png" alt="Mapúa University"></div>
 
 <!-- notes: Warm, simple open after the title gag — "Hi, I'm Raymond." Then the turn: I sat in those seats — same awards, same imposter feeling, a few years ahead of you. -->
 <!-- class: statement -->
@@ -657,7 +658,7 @@ You spent 5 years learning to code. *Cool cool cool.* 😬
 <br>
 <br>
 - **John Nichols**
-- Vice President, Maxim Integraded | Analog Devices
+- Vice President, Maxim Integrated | Analog Devices
 
 <div class="logorow big center"><img src="images/logos/adi.png" alt="Analog Devices"></div>
 
@@ -743,11 +744,15 @@ I built a working app in **minutes** — a Pokédex.
 
 # Einstein's IQ? *Legendarily* ~160.
 
-## Your assistant is on call **24/7, for free, in every language.**
+### Claude in 2023: **~64.** Today: **~133** — and climbing every month. 📈
+
+<div class="logorow center"><img src="images/logos/claude.png" alt="Claude"></div>
+
+## And it's on call **24/7, for free, in every language.**
 
 The question isn't *"is it smart?"* It's *"are you using it well?"*
 
-<div class="src">*Einstein never took a modern IQ test — "160" is popular legend. The point stands: genius-level help is now in everyone's pocket.*</div>
+<div class="src">*Einstein's "160" is popular legend (he never took a modern IQ test). Claude's IQ: Mensa Norway test via TrackingAI — ~64 (2023) → ~133 (latest Opus, 2026). The point stands: genius-level help is now in everyone's pocket.*</div>
 
 <!-- notes: Einstein-vs-AI beat. The genius isn't owning the smart tool — everyone has it now. The genius is HOW you direct it. Sets up the principles. -->
 
@@ -775,7 +780,7 @@ Each rung: **faster feedback, smaller batches, less waste.**
 
 ## Ladder 2 — how we use AI Assistant
 
-# Chat → Autocomplete → Coding Agent → **Agentic Engineering**
+# Chat → Autocomplete → Code → **Agentic Engineering**
 
 When you graduate, you'll **start at the top rung.** Start practicing now.
 
@@ -1003,7 +1008,7 @@ So don't chase the title. **Become the engineer.**
 ## My honest career trajectory
 
 - ⚙️ Systems Engineer → 🤖 **Senior AI/ML Engineer** → AI Practitioner & Consultant → *maybe* **Principal / Director**
-- 👨‍👧 a good husband… Dad?
+- 👨‍👧 a good **husband**… Dad?
 - 📖 study the Bible — *(diploma in theology)*
 - 🪿 then… **farmer** and **owner** 
 
@@ -1052,7 +1057,7 @@ Shout out to **Russel** External Vice President (OIC) & the whole **EECE Student
 
 <!-- class: quote -->
 
-## A word from my boss - Fellow Mapúan
+## A word from my boss — a fellow Mapúan
 
 <img class="quote-portrait" src="images/deck/gino.png" alt="Gino Oliver">
 
